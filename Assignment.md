@@ -12,6 +12,15 @@ You will find **two** files in the repository containing your homework. The writ
 ### Written Questions:
 You should complete the questions in written.md. The questions are "get to know you" type questions.
 
+### Adding code to markdown
+Here is how you add code to markdown:
+
+```python
+x = 5
+y = 7
+print(x+y)
+```
+
 ### Programming Questions:
 There are some questions in arith.py to get you familiar with printing arithmetic type questions. There's also a question about typing a vairable.
 

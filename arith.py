@@ -11,3 +11,7 @@
 
 
 # Write the python code to assign x+z to sum, and then print the sum.
+
+
+# Store 2.5 in the variable x, 3.7 in the variable y, and their product in the
+# variable z. Now try to divide by zero and store in the variable a.
